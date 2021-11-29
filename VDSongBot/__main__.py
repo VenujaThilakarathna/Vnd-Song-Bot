@@ -7,7 +7,6 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from VDSongBot import SDbot as app
 from VDSongBot import LOGGER
 
-VDSONGBOT_STICKER = "CAACAgUAAxkBAAIwr2Gk4yUHBZtvJj8qUf4lAW6AyQ8HAAMFAAIjgxBUxYUUii_druoiBA"
 pm_start_text = """
 👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot**
 **Now send me the song name you want to download**
