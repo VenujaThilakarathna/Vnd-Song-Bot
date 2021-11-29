@@ -24,7 +24,7 @@ Make Sure You Add All These Mandatory Vars.
     [-] APP_HASH : You can get this value from my.telegram.org
     [-] TOKEN : Get from @botfarther
 ```
-> - Made By [SDBots](https://t.me/SDBOTs_Inifinity).
+> - Made By [VDBots](https://t.me/VndBotSupport).
 > - Made With <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 
 ## Support
